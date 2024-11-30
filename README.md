@@ -29,21 +29,21 @@ MageAFK combines engaging survival mechanics with deep progression systems in a 
 ### 🏰 Game World
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3c986340-4f58-4c64-8ee6-7ffcbcb0ad19" width="80%" alt="Game Overview">
+  <img src="https://github.com/user-attachments/assets/dbbe8b65-6f11-46f9-98d7-130b7e6cf1de" width="80%" alt="Game Overview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/deb8f65c-f0a2-4de9-996e-9e234854eb83" width="45%" alt="Gameplay Screenshot 1">
+  <img src="https://github.com/user-attachments/assets/1f3a1bfb-f384-4ce7-b486-45faf978c128" width="45%" alt="Gameplay Screenshot 1">
   <img src="https://github.com/user-attachments/assets/993cdb14-d1fb-4a2f-943d-ea2f7f3c14a2" width="45%" alt="Gameplay Screenshot 2">
 </p>
 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ef60858-b919-4140-9e72-b059fc97a54c" width="80%" alt="Game Environment">
-</p>
+</p
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/727da64f-21b7-4da2-8fd3-a88efaf4e484" width="80%" alt="Battle Scene 2">
+  <img src="https://github.com/user-attachments/assets/1544e4a1-1151-4995-9530-fc0a8f551190" width="100%">
 </p>
 
 ### 🔮 Game Systems
@@ -52,6 +52,12 @@ MageAFK combines engaging survival mechanics with deep progression systems in a 
   <h4>Spell System</h4>
   <img src="https://github.com/user-attachments/assets/505de60d-e35c-452f-97db-f1f51d1d004f" width="80%" alt="Spell Screen">
 </div>
+
+<div align="center">
+  <h4>Skills</h4>
+  <img src="https://github.com/user-attachments/assets/7e03a34d-ab74-4367-be99-0e5be69a7e1b" width="80%" alt="Spell Screen">
+</div>
+
 
 <div align="center">
   <h4>Alchemy</h4>
